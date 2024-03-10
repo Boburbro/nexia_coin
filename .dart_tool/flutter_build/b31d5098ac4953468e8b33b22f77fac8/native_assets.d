@@ -1,0 +1,1 @@
+ /run/media/comptex/D/my_data/nexia_coin/.dart_tool/flutter_build/b31d5098ac4953468e8b33b22f77fac8/native_assets.yaml: 
