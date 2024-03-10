@@ -106,8 +106,6 @@ class _HomeState extends State<Home> {
                             if (await canLaunchUrlString(
                                 "https://t.me/ITwithBobur")) {
                               await launchUrlString("https://t.me/ITwithBobur");
-                            } else {
-                              print("Error");
                             }
                           },
                           icon: const Icon(Icons.open_in_new_outlined),
