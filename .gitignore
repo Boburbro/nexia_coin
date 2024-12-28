@@ -1,0 +1,6 @@
+.github
+.dart_tool
+build/
+.ideo
+.metadata
+analysis_options.yaml
